@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.anjali.favspacenotificationapp.MainActivity">
+    <item
+        android:id="@+id/action_remove_spaces"
+        android:title="@string/action_remove_spaces"
+        android:showAsAction="ifRoom|withText" />
+</menu>
